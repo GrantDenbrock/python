@@ -1,0 +1,7 @@
+#nfl_statistics
+nfl = [cardinals, lions, raiders]
+cardinals = {"Name":"Cardinals","City":"Phoenix","Wins":9,"Losses":4,"Ranking":2}
+lions = {"Name":"Lions","City":"Detroit","Wins":10,"Losses":3,"Ranking":2}
+raiders = {"Name":"Raiders","City":"Oakland","Wins":11,"Losses":2,"Ranking":1}
+
+print(nfl)
